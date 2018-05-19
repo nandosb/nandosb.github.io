@@ -135,26 +135,24 @@ bottom: -1.25rem;
   left: 0;
   z-index: -1;
 }
+
 .bar1::after{
-  max-width: 80%;
+  max-width: 85%;
 }
 .bar2::after{
-  max-width: 69%;
+  max-width: 95%;
 }
 .bar3::after{
-  max-width: 72%;
+  max-width: 79%;
 }
 .bar4::after{
-  max-width: 70%;
+  max-width: 86%;
 }
 .bar5::after{
-  max-width: 61%;
+  max-width: 70%;
 }
 .bar6::after{
-  max-width: 54%;
-}
-.bar7::after{
-  max-width: 23%;
+  max-width: 82%;
 }
 @-webkit-keyframes bar-before{
   0%{
