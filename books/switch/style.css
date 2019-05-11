@@ -1,0 +1,42 @@
+#container {
+  margin: 0 auto;
+  width: 96%;
+  display: flex;
+}
+
+#panel-left {
+  flex: 0 0 25%;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#panel-right {
+  flex: 1;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  font-weight: 300;
+  text-align: center;
+}
+
+h1 span {
+  font-size: 20px;
+  display: block;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+article {
+  font-family: 'Roboto', sans-serif;
+  padding: 0px 20px;
+  text-align: justify;
+}
+
+ul li {
+  margin-top: 8px
+}
